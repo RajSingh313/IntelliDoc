@@ -1,0 +1,10 @@
+streamlit==1.22.0
+PyPDF2==2.13.0
+python-docx==0.8.11
+langchain==0.0.244
+langchain-google-genai==0.0.10
+langchain-community==0.0.6
+faiss-cpu==1.7.3
+streamlit-mic-recorder==0.2.3
+gtts==2.2.4
+python-dotenv==1.0.0
